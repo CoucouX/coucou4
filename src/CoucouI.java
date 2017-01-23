@@ -2,6 +2,7 @@
 public class CoucouI {
 
 	private String coucou;
+	private String coucou2;
 
 	public CoucouI(String coucou) {
 		super();
@@ -14,6 +15,14 @@ public class CoucouI {
 
 	public void setCoucou(String coucou) {
 		this.coucou = coucou;
+	}
+
+	public String getCoucou2() {
+		return coucou2;
+	}
+
+	public void setCoucou2(String coucou2) {
+		this.coucou2 = coucou2;
 	}
 	
 	
