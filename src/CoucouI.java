@@ -3,6 +3,7 @@ public class CoucouI {
 
 	private String coucou;
 	private String coucou2;
+	private String aurevoir;
 
 	public CoucouI(String coucou) {
 		super();
